@@ -1,6 +1,7 @@
 ## Technical leadership
 * what are the important characteristics of a good technical leader and how would you demonstrate these in this role?
 * what does success look like after your first ninety days?
+* can you recall a time when you have missed some critical details of a task or project? why do you think you missed them? what did you learn?
 
 ## People management
 * how would you describe your people management style?
@@ -14,7 +15,8 @@
 * this role requires good collaboration with people from [all over the company]. What challenges have you overcome in the past dealing with teams in [different locations, a variety of backgrounds, skill levels, perspectives]
 * how do you foster excellent collaboration within your teams?
 * describe a situation when you found it difficult to agree with other team members' opinion? How did you deal with this, and what was the outcome?
-* How do you go about bringing your team mates on a journey when you have a good idea?
+* how do you go about bringing your team mates on a journey when you have a good idea?
+* can you tell me about a time when team dynamics changed the way a project was delivered?
 
 ## Innovation
 * tell me about a really tricky project or situation where you found a very simple solution
@@ -27,3 +29,5 @@
 * what about your work self are you currently trying to improve?
 * when have you changed plans on a project as a direct result of listening to a different perspective?
 * what's the most recent feedback you got which illicited a change in you?
+* what personality types do you find hardest to relate to? what strategies have you employed in the past to work with those personalities successfully?
+* what has been the most challenging piece of work for you, and what did you learn / take away from it?
