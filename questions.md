@@ -3,6 +3,12 @@
 * what does success look like after your first ninety days?
 * can you recall a time when you have missed some critical details of a task or project? why do you think you missed them? what did you learn?
 
+### Delivery
+* what does good delivery look like? 
+* what does good delivery leadership look like?
+* can you tell us about some improvements you’ve implemented in teams? What did they change, and how successful were they
+* what has been the most challenging piece of work for you, and what did you learn/take away from it?
+
 ## People management
 * how would you describe your people management style?
 * what would the people who have reported to you say are your most notable traits?
@@ -45,3 +51,4 @@
 * what personality types do you find hardest to relate to? what strategies have you employed in the past to work with those personalities successfully?
 * what has been the most challenging piece of work for you, and what did you learn / take away from it?
 * what would your teammates say is your best / worst quality? Biggest areas need to improve
+* how do you handle stressful situations? How would your peers know if you’re stressed?
