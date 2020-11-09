@@ -1,4 +1,8 @@
-## Technical leadership
+## Leadership
+* what attributes does a great leader in [x] have?
+* what do you need (from us) to grow and develop as a leader?
+
+### Technical
 * what are the important characteristics of a good technical leader and how would you demonstrate these in this role?
 * what does success look like after your first ninety days?
 * can you recall a time when you have missed some critical details of a task or project? why do you think you missed them? what did you learn?
@@ -9,13 +13,26 @@
 * can you tell us about some improvements you’ve implemented in teams? What did they change, and how successful were they
 * what has been the most challenging piece of work for you, and what did you learn/take away from it?
 
+### Influencing others
+* can you tell me about a time you had to influence senior management? How did you go about doing this? 
+* how do you go about influencing a decision that you don't agree with?
+* describe a time you felt strongly that a project was going down the wrong path and needed to change direction. What did you do?
+
 ## People management
 * how would you describe your people management style?
 * what would the people who have reported to you say are your most notable traits?
 
+## Team Building
+* what's your approach to building relationships/networks with people outside of your usual team?
+* [Promotion situation] How do you think your relationship with your peers will change if you are successful in getting this role?  What do you think you will do to pre-empt this, or to help it 
+* you are hard working and ambitious. Not everyone shares the same goals and aspirations as you - how would you focus your expectations to help your team achieve their goals, while balancing their priorities and the competing demands on their lives?  How would you promote healthy work / life balance in your team?
+
 ## Communication
 * how do you communicate technical information to non-technical people?
 * has there been a time when you feel you did not communicate an idea or concept as well as you could have?
+* describe a situation in which you were unable to fully follow/understand a co-worker. How did you talk to them about this? What was the outcome?
+* have you ever felt that you haven't been able to explain yourself effectively or get your point across in a way that others could understand? What did you do? 
+* describe a time when you’ve professionally disagreed with someone.  How did you approach this, what was the outcome?
 
 ## Logical reasoning
 * describe a time when you had to rapidly learn some new information for a project/problem?
@@ -52,6 +69,22 @@
 * what has been the most challenging piece of work for you, and what did you learn / take away from it?
 * what would your teammates say is your best / worst quality? Biggest areas need to improve
 * how do you handle stressful situations? How would your peers know if you’re stressed?
+* what’s the project you’re most proud of working on?
+
+## Feedback
+* can you tell us about a time where you might have received some negative or super constructive feedback about your performance? How did you react and what steps did you put in place to acknowledge that feedback?
+* tell us about a time when you’ve had to approach a difficult conversation with one of your peers
+* what if you had an under performer in your team? What steps would you take to manage this? What steps would you take to get them back on track?
+* tell us about a time when you have really empowered someone in your team? How did you go about doing this?
+* what's the best way to motivate and inspire a team?
+
+## The role they're applying for 
+* what do you enjoy about being a [x]?
+* what is the biggest challenge for you as a [x]?
+* in reading the job description, which activities appeal to you most?
+* which would you rather work with most – data, people, or things?
+* what didn't you like about your last role? Followed up with, what did you do to change that?
+
 
 ## People Leadership
 * people are motivated by different things. What strategies do you have for keeping different types of people engaged in the workplace?
