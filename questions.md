@@ -84,7 +84,9 @@
 * in reading the job description, which activities appeal to you most?
 * which would you rather work with most – data, people, or things?
 * what didn't you like about your last role? Followed up with, what did you do to change that?
-
+* which of your talents would you most like to develop further?
+* what other goals do you have for yourself in the coming year and beyond?
+* when have you gone out of your way to become better/learn something new?
 
 ## People Leadership
 * people are motivated by different things. What strategies do you have for keeping different types of people engaged in the workplace?
