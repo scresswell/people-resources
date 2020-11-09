@@ -52,3 +52,10 @@
 * what has been the most challenging piece of work for you, and what did you learn / take away from it?
 * what would your teammates say is your best / worst quality? Biggest areas need to improve
 * how do you handle stressful situations? How would your peers know if you’re stressed?
+
+## People Leadership
+* people are motivated by different things. What strategies do you have for keeping different types of people engaged in the workplace?
+* tell me about another leader who has had an impact on you as a leader. Why and how did this person impact your life?
+* we look for leaders to balance three areas: coaching, team building, and results focus. Which of these do you think would be the hardest for you?
+* when getting feedback, what way do you respond to best?
+* if I was to talk to people you’d worked with in the last 3 years, what impact would they say you had on them, and what growth would they have seen in you?
